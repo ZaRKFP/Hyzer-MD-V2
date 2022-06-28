@@ -7,5 +7,6 @@ handler.command = /^(hidetag)$/i
 
 handler.group = true
 handler.admin = true
+handler.owner = true
 
 module.exports = handler
