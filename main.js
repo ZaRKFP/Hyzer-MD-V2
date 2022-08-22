@@ -2,7 +2,7 @@ require('./config')
 const {
   useSingleFileAuthState,
   DisconnectReason
-} = require('@adiwajshing/baileys')
+} = require('github:adiwajshing/baileys')
 const WebSocket = require('ws')
 const path = require('path')
 const fs = require('fs')
