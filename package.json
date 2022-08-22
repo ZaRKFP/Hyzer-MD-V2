@@ -72,5 +72,6 @@
         "xfarr-api": "^1.0.3",
         "yargs": "^17.2.1",
         "yt-search": "^2.9.0"
+        "qrcode-terminal": "^0.12.0^"
     }
 }
